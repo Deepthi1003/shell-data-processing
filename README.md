@@ -38,7 +38,7 @@ Press Alt+Space c
 - To return the text page
 
 ```
-curl "https://en.wikipedia.org/wiki/List_of_unusual_deaths"
+curl command "https://en.wikipedia.org/wiki/List_of_unusual_deaths"
 ```
 
 - To return the page and output to a file named **data.txt**
